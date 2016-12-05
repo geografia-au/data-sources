@@ -1,3 +1,9 @@
+# Moved to google speardsheet
+
+Please add sources here instead
+
+https://docs.google.com/spreadsheets/d/1t3ZpTUoE2g3TorBoMV8Hl50ar8H7aghKEdjkrAFCsN8/edit?usp=sharing
+
 # Demograhpic Data Sources
 
 ## European
